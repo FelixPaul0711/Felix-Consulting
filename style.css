@@ -563,3 +563,13 @@ button {
     flex-direction: column;
   }
 }
+.logo {
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
