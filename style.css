@@ -567,6 +567,7 @@ button {
   height: 40px;
   width: auto;
   display: block;
+  border-radius: 8px;
 }
 
 .brand {
